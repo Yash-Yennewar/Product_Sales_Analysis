@@ -56,7 +56,7 @@ The dashboard helps in answering:
 ### 🔹 2. Data Story Highlights
 - **East Region Success** → East outperformed other regions with positive revenue & profit contribution. 
 - **NYC performance** → New York City stands out with consistent growth and profitability.  
-- **October - December Peak Revenue** → October - December 2023-24 marked the **highest monthly revenue**, driven by strong promotions and seasonal demand.  
+- **October - December Peak Revenue** → October - December 2024 marked the **highest monthly revenue**, driven by strong promotions and seasonal demand.  
 
 ---
 
