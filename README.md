@@ -77,7 +77,7 @@ The dashboard helps in answering:
 
 ## 🛠️ Tools & Technologies
 - **Tableau Desktop / Tableau Public** – Data visualization and storytelling.  
-- **product_sales Dataset** – Sample product sales dataset (product, region, customer, order details).  
+- **Product Sales Dataset** – Sample product sales dataset (product, region, customer, order details).  
 
 ---
 
@@ -96,5 +96,5 @@ The dashboard helps in answering:
 ---
 
 ## 📜 License
-This project is for **educational and portfolio purposes** only. The dataset used is the **Tableau Superstore Sample Dataset**.
+This project is for **educational and portfolio purposes** only. The dataset used is the **Tableau Product Sales Sample Dataset**.
 
