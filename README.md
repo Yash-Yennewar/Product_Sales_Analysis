@@ -65,13 +65,13 @@ The dashboard helps in answering:
   ![Dashboard](Screenshots/Dashboard.png)  
 
 - **Data Story 1 – East Region**  
-  ![Central Region](Screenshots/DataStory-1.png)  
+  ![East Region](Screenshots/DataStory-1.png)  
 
 - **Data Story 2 – NYC Performer**  
-  ![NYC Performance](Screenshots/DataStory-2.png)  
+  ![NYC Performance](Screenshots/DataStory-2.png)
 
 - **Data Story 3 – October - December Peak Revenue**  
-  ![November Sales](Screenshots/DataStory-3.png)  
+  ![October - December Sales](Screenshots/DataStory-3.png)  
 
 ---
 
