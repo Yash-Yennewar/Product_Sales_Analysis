@@ -6,6 +6,9 @@ Interactive Tableau dashboards analyzing US product sales with insights on reven
 ## 📂 Project Link
 <a href ="https://public.tableau.com/views/Product_Sales_Analysis_17582747822850/DataStory?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">Product Sales Analytics</a>
 
+## 📂 Dataset
+- Dataset Source : [product-sales-dataset-2023-2024](https://www.kaggle.com/datasets/yashyennewar/product-sales-dataset-2023-2024)
+
 ---
 
 ## 📌 Overview
